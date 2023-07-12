@@ -1,5 +1,5 @@
 'use strict';
-const path = require('path');
+const path = require('path-browserify');
 
 const extensions = new Set([
 	'3dv',

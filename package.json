@@ -39,5 +39,8 @@
 		"ava": "^1.4.1",
 		"tsd": "^0.7.2",
 		"xo": "^0.24.0"
+	},
+	"dependencies": {
+		"path-browserify": "^1.0.1"
 	}
 }
